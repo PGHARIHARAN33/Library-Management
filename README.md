@@ -1,4 +1,5 @@
 # Library-Management
+## REGISTER NUMBER: 212222040050
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
@@ -22,6 +23,23 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+### USE CASE DIAGRAM:
+![UseCaseDiagram(library)](https://github.com/user-attachments/assets/62715942-ff3e-455d-ad80-878e1b06ad8a)
+
+### CLASS DIAGRAM:
+![ClassDiagram(library)](https://github.com/user-attachments/assets/5c1b23bc-a12a-40f5-b52b-50be92068cc8)
+
+### SEQUENCE DIAGRAM:
+![SequenceDiagram(library)](https://github.com/user-attachments/assets/97f93969-b9ff-4b0a-904f-2384d90979d4)
+
+### ACTIVITY DIAGRAM:
+![ActivityDiagram(library)](https://github.com/user-attachments/assets/43afe37f-d2cf-4c70-baf2-523646c94dc1)
+
+### COMMUNICATION DIARAM:
+![CommunicationDiagram(library)](https://github.com/user-attachments/assets/1cab172d-126f-4441-b7a3-ec8c3de4f57a)
+
+### PACKAGE DIAGRAM:
+![PackageDiagram(library)](https://github.com/user-attachments/assets/987eebfe-34ad-40fc-820c-c483f7c92add)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
